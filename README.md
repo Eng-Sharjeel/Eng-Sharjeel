@@ -1,3 +1,4 @@
+![logo](https://github.com/sherryyy19/sherryyy19/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Sharjeel Ahmed</h1>
 <h3 align="center">A Software Engineer learning to code & Turning data into stories and errors into lessons</h3>
 <h3 align="center">Eat, Sleep, Code & Repeat !</h3>
