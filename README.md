@@ -6,11 +6,9 @@
 <img align ="right" alt="coding" width = "400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherryyy19&label=Profile%20views&color=0e75b6&style=flat" alt="sherryyy19" /> </p>
 
-- 🔭 I’m currently working **as a Software Engineer remotely.**
+- 🔭 I’m currently Looking to collaborate on **Agile Software Development, Data Science, and AI.**
 
-- 🔎 I’m currently learning **Data Science and Applied Generative AI.**
-
-- ⚡ I’m currently exploring **Microservice technologies i.e., Docker & Apache Kafka and Cloud Deployment.**
+- 🔎 I’m currently exploring **Microservice Technologies (Docker & Apache Kafka and Cloud Deployment) and Applied Generative AI**
 
 - 💬 Ask me about **Data Science, AI & Software Engineering.**
 
