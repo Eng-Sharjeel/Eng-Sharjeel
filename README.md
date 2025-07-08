@@ -1,4 +1,4 @@
-![logo](https://github.com/eng-sharjeel/eng-sharjeel/blob/main/github%20banner.png)
+![logo](https://github.com/Eng-Sharjeel/Eng-Sharjeel/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Sharjeel Ahmed</h1>
 <h3 align="center">A Software Engineer learning to code & turning data into stories and errors into lessons</h3>
 <h3 align="center">Eat, Sleep, Code & Repeat !</h3>
