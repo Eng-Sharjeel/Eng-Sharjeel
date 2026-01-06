@@ -47,19 +47,4 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
 </a>
-
 </p>
-
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eng-Sharjeel&show_icons=true&locale=en&layout=compact" alt="Sharjeel Ahmed" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Sharjeel&show_icons=true&locale=en" alt="Sharjeel Ahmed" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Sharjeel" alt="Sharjeel Ahmed" />
-</p>
-
