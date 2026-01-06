@@ -39,7 +39,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
 </a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d2/Apache_Airflow_logo.png](https://en.wikipedia.org/wiki/Apache_Airflow)" alt="airflow" width="40" height="40"/> 
+  <img src="https://dashboardicons.com/icons/apache-airflow" alt="airflow" width="40" height="40"/> 
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
