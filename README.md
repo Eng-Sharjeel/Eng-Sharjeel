@@ -26,6 +26,12 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> 
+</a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
 </a>
@@ -39,17 +45,12 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
 </a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://dashboardicons.com/icons/apache-airflow" alt="airflow" width="40" height="40"/> 
+  <img src="https://www.clipartmax.com/middle/m2i8d3H7m2N4G6m2_james-barney-apache-airflow-logo/" alt="airflow" width="40" height="40"/> 
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
 </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> 
-</a>
+
 </p>
 
 
